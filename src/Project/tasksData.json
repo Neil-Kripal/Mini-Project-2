@@ -1,0 +1,57 @@
+[
+    {
+      "id": 0,
+      "title": "Task 1",
+      "category": "Pending",
+      "description": "File Emails"
+    },
+    {
+      "id": 1,
+      "title": "Task 2",
+      "category": "Pending",
+      "description": "Read Document"
+    }, 
+
+    {
+        "id": 2,
+        "title": "Task 3",
+        "category": "Action",
+        "description": "Reply to Mark"
+      },
+
+      {
+        "id": 3,
+        "title": "Task 4",
+        "category": "Pending",
+        "description": "Call James from Accounts"
+      },
+
+      {
+        "id": 4,
+        "title": "Task 5",
+        "category": "Action",
+        "description": "Draft Report"
+      },
+
+      {
+        "id": 5,
+        "title": "Task 6",
+        "category": "Action",
+        "description": "Analyse Data"
+      },
+
+      {
+        "id": 6,
+        "title": "Task 7",
+        "category": "Completed",
+        "description": "Finalise Payroll"
+      },
+      {
+        "id": 7,
+        "title": "Task 8",
+        "category": "Completed",
+        "description": "Read Document"
+      }
+
+
+]
